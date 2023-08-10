@@ -1,3 +1,6 @@
+
 Rodrigo Bucheli Cardozo
 18
 Aprender programacion orientada a objetos
+
+Se pudo hacer commit ya que la carpeta no esta vacia
